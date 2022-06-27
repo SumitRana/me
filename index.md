@@ -27,8 +27,8 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 #### Python libraries published
 
-*   [Link to another page](https://github.com/SumitRana/JsonNetworkStream).
-*   [Link to another page](https://github.com/SumitRana/django-apiMaker).
+*   [Json protocol based Socket Library](https://github.com/SumitRana/JsonNetworkStream).
+*   [Library to generate generic django api's](https://github.com/SumitRana/django-apiMaker).
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
@@ -47,9 +47,8 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+
 
 ```
-The final element.
+Thankyou for the intrest.
 ```
