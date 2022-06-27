@@ -30,20 +30,18 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 *   [Json protocol based Socket Library](https://github.com/SumitRana/JsonNetworkStream).
 *   [Library to generate generic django api's](https://github.com/SumitRana/django-apiMaker).
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
+### Who I am.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Sumit Rana</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1994</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Himachal Pradesh</dd>
+<dt>Hobbies</dt>
+<dd>Deep Water Diving</dd>
 </dl>
 
 ```
